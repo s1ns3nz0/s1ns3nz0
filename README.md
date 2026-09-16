@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinsoo Yang</h1>
 <h3 align="center">If you know the enemy and know yourself, you need not fear the result of a hundred battles.</h3>
 <h3 align="left">About me</h3>
+
 - 🌱 I’m currently learning **Blockchain, AI plugins**
 
 - 👯 I’m looking to collaborate on **Blockchain, Cybersecurity, DevSecOps engineer**
